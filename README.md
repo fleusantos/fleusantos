@@ -4,24 +4,21 @@
 </div>
 
 <div align="center">
-  <h3>🌌 Fullstack Web & Blockchain Developer 🌌 </h3>
+  <h3>🌌 Full Stack Web Developer 🌌 </h3>
 </div>
 
 ### About Me
 
-- 💻 High skilled Senior Software Developer after graudate University.
-- 🏡 Currently I am a Full Stack Blockchain Developer with Web developing.
+- 💻 High skilled Javascript Software Developer after graudate University.
+- 🏡 Currently I am a Full Stack web Developer with Web developing.
 - 👨‍💻 Enjoying `open source blockchain `projects.
 - ⏰ Working on EST timezone.
 - 📙 Fluent English.
-- 👊 Provide high quality works for clients.
+- 👊 Keep clear communication with clients or co-workers and Provide high quality works for clients.
 
 ### Frequently Used Languages, Tools and Platforms
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
