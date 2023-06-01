@@ -1,10 +1,10 @@
 <div align="center">
-  <h2>🌌 Web & AI Engineer 🌌 </h2>
+  <h1> Web & AI Engineer </h1>
 </div>
 
-### <font color="#3498DB">About me</font>
+### <font color="#3498DB">Services</font>
 
-Services: Javascript/Python Full-Stack Web Dev, ChatGPT, StableDiffusion/Midjourney + Dreambooth fine-tuning
+<h3> Javascript/Python Full-Stack Web Dev, ChatGPT, StableDiffusion/Midjourney + Dreambooth fine-tuning </h3>
 
 ### <font color="#3498DB">Skills</font>
 <p align="center">
