@@ -4,7 +4,7 @@
 
 ### <font color="#3498DB">Services</font>
 
-<h3> Javascript/Python Full-Stack Web Dev, ChatGPT, StableDiffusion/Midjourney + Dreambooth fine-tuning </h3>
+<h4> Javascript/Python Full-Stack Web Dev, ChatGPT, StableDiffusion/Midjourney + Dreambooth fine-tuning </h4>
 
 ### <font color="#3498DB">Skills</font>
 <p align="center">
