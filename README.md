@@ -1,9 +1,5 @@
 <div align="center">
-  <h1> Hi, I'm Fleuguiner Santos Silva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
-  <p> <img src=https://komarev.com/ghpvc/?username=Fleuguiner-Santos-Silva alt=Fleuguiner-Santos-Silva> </p>
-</div>
-<div align="center">
-  <h3>🌌 Web & AI Engineer 🌌 </h3>
+  <h2>🌌 Web & AI Engineer 🌌 </h2>
 </div>
 
 ### <font color="#3498DB">About me</font>
