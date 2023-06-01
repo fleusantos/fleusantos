@@ -3,17 +3,12 @@
   <p> <img src=https://komarev.com/ghpvc/?username=Fleuguiner-Santos-Silva alt=Fleuguiner-Santos-Silva> </p>
 </div>
 <div align="center">
-  <h3>🌌 Full Stack Web Developer 🌌 </h3>
+  <h3>🌌 Web & AI Engineer 🌌 </h3>
 </div>
 
 ### <font color="#3498DB">About me</font>
 
-- 💻 I am a highly skilled full-stack developer with a strong background in software development.
-- 🏡 I have experience in developing and maintaining various web applications.
-- 👨‍💻 I have a passion for open-source projects and enjoy exploring new technologies.
-- ⏰ I am based in the GMT time zone and am available for communication during standard business hours.
-- 📙 I am fluent in English and have excellent communication skills.
-- 👊 I believe in maintaining clear and concise communication with clients and colleagues to deliver high-quality work.
+Services: Javascript/Python Full-Stack Web Dev, ChatGPT, StableDiffusion/Midjourney + Dreambooth fine-tuning
 
 ### <font color="#3498DB">Skills</font>
 <p align="center">
