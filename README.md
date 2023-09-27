@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Web & AI Engineer </h1>
+  <h1> Web & AI & Data Visualization </h1>
 </div>
 
 ### <font color="#3498DB">Services</font>
