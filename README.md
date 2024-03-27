@@ -6,6 +6,20 @@
 
 <h4> Javascript/Python Full-Stack Web Dev, ChatGPT, StableDiffusion, PowerBI/D3.js </h4>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<div >
+  <h4 align="center"> 
+    🏃 Happy Coding 🏃 
+  </h4>
+</div>
+<p align="center">
+  <a href="https://github.com/hrachgalstyann" width="100%" style="display:flex">
+    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hrachgalstyan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hrachgalstyan&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
 ### <font color="#3498DB">Skills</font>
 <p align="center">
   <code><img height="60" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
